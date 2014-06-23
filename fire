@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo foo >> foo
+git commit -m 'foo' foo
+git push
